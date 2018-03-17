@@ -1,0 +1,25 @@
+# Project specific #
+######################
+node_modules
+bower_components
+*.sublime-project
+*.sublime-workspace
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Caches #
+######################
+*.sass-cache
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
